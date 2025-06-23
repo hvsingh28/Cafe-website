@@ -1,0 +1,143 @@
+{
+    "designSystem": {
+      "branding": {
+        "logo": "simple icon + serif-sans logo text",
+        "vibe": "British-inspired, elegant, warm, welcoming",
+        "locationTag": "Jaipur-based café"
+      },
+      "colorPalette": {
+        "primary": "#C2551F",
+        "secondary": "#222222",
+        "background": "#FFFFFF",
+        "surface": "#F5F5F5",
+        "textPrimary": "#222222",
+        "textSecondary": "#666666",
+        "accent": "#C2551F"
+      },
+      "typography": {
+        "fontFamily": "'Inter', sans-serif",
+        "headings": {
+          "fontWeight": "700",
+          "letterSpacing": "normal",
+          "color": "#222222"
+        },
+        "body": {
+          "fontWeight": "400",
+          "lineHeight": "1.6",
+          "color": "#666666"
+        },
+        "emphasis": {
+          "color": "#C2551F",
+          "fontWeight": "600"
+        }
+      },
+      "buttons": {
+        "primary": {
+          "backgroundColor": "#C2551F",
+          "color": "#FFFFFF",
+          "borderRadius": "8px",
+          "padding": "12px 24px",
+          "fontWeight": "600"
+        },
+        "secondary": {
+          "backgroundColor": "#FFFFFF",
+          "color": "#222222",
+          "border": "1px solid #CCCCCC",
+          "borderRadius": "8px",
+          "padding": "12px 24px"
+        }
+      },
+      "navigation": {
+        "style": "top horizontal navbar",
+        "layout": "logo left, links center, icons right",
+        "links": ["Menu", "Reservations", "About", "Contact", "Order Online"],
+        "mobileResponsiveness": "burger menu for smaller screens"
+      },
+      "heroSection": {
+        "layout": "full-width banner with overlay text and CTA buttons",
+        "imageStyle": "warm tone imagery, British cafe ambiance",
+        "headline": "Large, bold, centered",
+        "subheadline": "Smaller, lighter text",
+        "ctaButtons": ["View Menu", "Make a Reservation"]
+      },
+      "menuSection": {
+        "structure": "sectioned (Breakfast, Lunch, Afternoon Tea, Dinner)",
+        "itemLayout": "item name left, price right, description below",
+        "pricingStyle": "orange colored price on right",
+        "visualSpacing": "ample whitespace, fine dividers"
+      },
+      "reservationForm": {
+        "layout": "centered form in card",
+        "fields": [
+          "date", "time", "number of guests", "name", "email", "phone (optional)", "special requests (optional)"
+        ],
+        "ctaButton": {
+          "label": "Book Now",
+          "style": "primary button"
+        }
+      },
+      "contactSection": {
+        "layout": "two-column: inquiries + connect links",
+        "icons": "rounded, outlined"
+      },
+      "customerReviewSection": {
+        "layout": "multi-card grid (2-3 columns on desktop, 1 column on mobile)",
+        "card": {
+          "background": "#FFFFFF",
+          "border": "1px solid #E5E5E5",
+          "borderRadius": "10px",
+          "padding": "20px",
+          "boxShadow": "subtle"
+        },
+        "elements": {
+          "reviewerName": {
+            "fontWeight": "600",
+            "color": "#222222"
+          },
+          "rating": {
+            "display": "star icons (orange)",
+            "maxStars": 5
+          },
+          "reviewText": {
+            "fontSize": "medium",
+            "color": "#666666",
+            "lineHeight": "1.6"
+          },
+          "date": {
+            "fontSize": "small",
+            "color": "#999999"
+          }
+        },
+        "sectionTitle": {
+          "text": "Customer Reviews",
+          "style": "large bold heading centered",
+          "spacing": "40px below title"
+        },
+        "callToAction": {
+          "button": {
+            "label": "Leave a Review",
+            "style": "secondary button"
+          }
+        }
+      },
+      "footer": {
+        "background": "#F5F5F5",
+        "sections": ["About", "Quick Links", "Connect With Us"],
+        "copyright": "© Year The Silk Cup. All rights reserved.",
+        "note": "Crafted with ❤️ in Jaipur."
+      },
+      "spacing": {
+        "sectionSpacing": "60px",
+        "componentSpacing": "24px",
+        "padding": "16px - 32px",
+        "maxWidth": "1200px"
+      },
+      "animation": {
+        "buttonHover": "subtle color darken",
+        "linkHover": "underline or slight color shift",
+        "formInputs": "smooth focus outline"
+      },
+      "overallFeel": "Modern, clean, airy, slightly playful with warmth"
+    }
+  }
+  
