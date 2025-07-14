@@ -1,9 +1,12 @@
 # The Silk Cup Café Web App
 
-<!-- Demo Images Side by Side -->
+
 <div align="center">
-  <img src="src/assets/demo-english.png" alt="Demo English" width="350" style="margin-right: 16px;"/>
-  <img src="src/assets/demo-hindi.png" alt="Demo Hindi" width="350"/>
+  <img src="src/assets/demo.gif" alt="Demo GIF" width="500" style="margin-bottom: 16px;"/>
+  <br/>
+  <img src="src/assets/demo-english.png" alt="Demo English" width="220" style="margin-right: 12px;"/>
+  <img src="src/assets/demo-hindi.png" alt="Demo Hindi" width="220" style="margin-right: 12px;"/>
+  <img src="src/assets/demo-mobile.png" alt="Mobile Screenshot" width="120"/>
 </div>
 
 Welcome to the new and improved web experience for **The Silk Cup Café**!  
