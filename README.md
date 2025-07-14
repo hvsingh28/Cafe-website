@@ -1,5 +1,11 @@
 # The Silk Cup Café Web App
 
+<!-- Demo Images Side by Side -->
+<div align="center">
+  <img src="src/assets/demo-english.png" alt="Demo English" width="350" style="margin-right: 16px;"/>
+  <img src="src/assets/demo-hindi.png" alt="Demo Hindi" width="350"/>
+</div>
+
 Welcome to the new and improved web experience for **The Silk Cup Café**!  
 This project was originally built using traditional web technologies, but has now been **rebuilt from scratch using React** for a modern, interactive, and maintainable codebase.
 
